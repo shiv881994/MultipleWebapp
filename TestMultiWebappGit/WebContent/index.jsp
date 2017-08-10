@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<br>Initial Commit</br>
+<br>Second Commit </br>
 <br>Test use for multiple Folders in repository branch</br>
 <br>Date: <%= new java.util.Date() %>    </br>
 
