@@ -9,7 +9,7 @@
 <body>
 
 
-<br>Initial Commit SecondWebhookTest</br>
+<br>Second Commit SecondWebhookTest check for both project builds or not</br>
 <br>Test use for multiple Folders in repository branch</br>
 <br>Date: <%= new java.util.Date() %> </br>
 
